@@ -2,6 +2,7 @@
   "Themes": [
     {"id": "t1", "name": "Midnight", "bg": "#121212", "fg": "#00ff00", "desc": "Matrix style green on black."},
     {"name": "Cyberpunk", "bg": "#2b0033", "fg": "#ff00ff", "desc": "Neon purple aesthetic."}
+  {"name": "Mint", "bg": "#80ffb7", "fg": "#32a852", "desc": " Mint Icecream Vibes"} 
   ]
 }
 
