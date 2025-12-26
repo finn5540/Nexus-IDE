@@ -1,1 +1,7 @@
+{
+  "Themes": [
+    {"id": "t1", "name": "Midnight", "bg": "#121212", "fg": "#00ff00", "desc": "Matrix style green on black."},
+    {"name": "Cyberpunk", "bg": "#2b0033", "fg": "#ff00ff", "desc": "Neon purple aesthetic."}
+  ]
+}
 
