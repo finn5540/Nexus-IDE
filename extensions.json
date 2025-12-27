@@ -2,88 +2,113 @@
   "Themes": [
     {
       "id": "t1",
-      "name": "Midnight",
+      "name": "Midnight Hacker",
       "bg": "#121212",
       "fg": "#00ff00",
-      "desc": "Matrix style green on black. Hacker / terminal aesthetic."
+      "font": {
+        "family": "Consolas",
+        "size": 14
+      },
+      "desc": "Matrix-style hacker terminal aesthetic."
     },
     {
       "id": "t2",
-      "name": "Cyberpunk",
+      "name": "Cyberpunk Neon",
       "bg": "#2b0033",
       "fg": "#ff00ff",
-      "desc": "Neon purple cyberpunk city vibes."
+      "font": {
+        "family": "Courier New",
+        "size": 15
+      },
+      "desc": "Neon cyberpunk city vibes."
     },
     {
       "id": "t3",
       "name": "Retro Arcade",
       "bg": "#000000",
       "fg": "#ffcc00",
-      "desc": "Classic arcade games, pixel art, 80s nostalgia."
+      "font": {
+        "family": "Courier New",
+        "size": 16
+      },
+      "desc": "Classic 80s arcade machines."
     },
     {
       "id": "t4",
-      "name": "RPG Fantasy",
+      "name": "Fantasy RPG",
       "bg": "#1b1f2a",
       "fg": "#d4af37",
-      "desc": "Fantasy RPG mood: magic, quests, medieval worlds."
+      "font": {
+        "family": "Times New Roman",
+        "size": 15
+      },
+      "desc": "Magic, quests, and fantasy worlds."
     },
     {
       "id": "t5",
-      "name": "Horror",
+      "name": "Horror Dark",
       "bg": "#0a0a0a",
       "fg": "#b00020",
-      "desc": "Dark horror games, suspenseful and eerie."
+      "font": {
+        "family": "Verdana",
+        "size": 14
+      },
+      "desc": "Dark horror and suspense atmosphere."
     },
     {
       "id": "t6",
-      "name": "Cozy",
+      "name": "Cozy Café",
       "bg": "#f5efe6",
       "fg": "#7a5c3e",
-      "desc": "Relaxing, cozy games like farming or life sims."
+      "font": {
+        "family": "Arial",
+        "size": 14
+      },
+      "desc": "Relaxing, cozy, chill writing mood."
     },
     {
       "id": "t7",
       "name": "Sci-Fi Space",
       "bg": "#050b1e",
       "fg": "#4cc9f0",
-      "desc": "Space exploration, sci-fi HUDs, futuristic UI."
+      "font": {
+        "family": "Helvetica",
+        "size": 14
+      },
+      "desc": "Futuristic space and sci-fi HUD feel."
     },
     {
       "id": "t8",
-      "name": "Post-Apocalyptic",
+      "name": "Post-Apocalypse",
       "bg": "#2a2a1f",
       "fg": "#c2b280",
-      "desc": "Wasteland survival, gritty and dusty atmosphere."
+      "font": {
+        "family": "Verdana",
+        "size": 14
+      },
+      "desc": "Wasteland survival aesthetic."
     },
     {
       "id": "t9",
-      "name": "Stealth",
+      "name": "Stealth Ops",
       "bg": "#0f1a1a",
       "fg": "#5fb3b3",
-      "desc": "Stealth games, night missions, tactical focus."
+      "font": {
+        "family": "Consolas",
+        "size": 14
+      },
+      "desc": "Stealth missions and tactical focus."
     },
     {
       "id": "t10",
-      "name": "Chill Neon",
+      "name": "Chill Lofi",
       "bg": "#1e1e2e",
       "fg": "#a6adc8",
-      "desc": "Lo-fi, chill vibes with soft neon colors."
-    },
-    {
-      "id": "t11",
-      "name": "Battle Royale",
-      "bg": "#101820",
-      "fg": "#ff3c38",
-      "desc": "High-energy competitive shooter mood."
-    },
-    {
-      "id": "t12",
-      "name": "Fantasy Nature",
-      "bg": "#102a18",
-      "fg": "#7ddc9a",
-      "desc": "Peaceful fantasy forests and exploration."
+      "font": {
+        "family": "Arial",
+        "size": 14
+      },
+      "desc": "Lo-fi beats, calm neon glow."
     }
   ]
 }
-
