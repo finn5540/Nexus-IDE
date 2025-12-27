@@ -1,6 +1,89 @@
 {
   "Themes": [
-    {"id": "t1", "name": "Midnight", "bg": "#121212", "fg": "#00ff00", "desc": "Matrix style green on black."},
-    {"name": "Cyberpunk", "bg": "#2b0033", "fg": "#ff00ff", "desc": "Neon purple aesthetic."}
+    {
+      "id": "t1",
+      "name": "Midnight",
+      "bg": "#121212",
+      "fg": "#00ff00",
+      "desc": "Matrix style green on black. Hacker / terminal aesthetic."
+    },
+    {
+      "id": "t2",
+      "name": "Cyberpunk",
+      "bg": "#2b0033",
+      "fg": "#ff00ff",
+      "desc": "Neon purple cyberpunk city vibes."
+    },
+    {
+      "id": "t3",
+      "name": "Retro Arcade",
+      "bg": "#000000",
+      "fg": "#ffcc00",
+      "desc": "Classic arcade games, pixel art, 80s nostalgia."
+    },
+    {
+      "id": "t4",
+      "name": "RPG Fantasy",
+      "bg": "#1b1f2a",
+      "fg": "#d4af37",
+      "desc": "Fantasy RPG mood: magic, quests, medieval worlds."
+    },
+    {
+      "id": "t5",
+      "name": "Horror",
+      "bg": "#0a0a0a",
+      "fg": "#b00020",
+      "desc": "Dark horror games, suspenseful and eerie."
+    },
+    {
+      "id": "t6",
+      "name": "Cozy",
+      "bg": "#f5efe6",
+      "fg": "#7a5c3e",
+      "desc": "Relaxing, cozy games like farming or life sims."
+    },
+    {
+      "id": "t7",
+      "name": "Sci-Fi Space",
+      "bg": "#050b1e",
+      "fg": "#4cc9f0",
+      "desc": "Space exploration, sci-fi HUDs, futuristic UI."
+    },
+    {
+      "id": "t8",
+      "name": "Post-Apocalyptic",
+      "bg": "#2a2a1f",
+      "fg": "#c2b280",
+      "desc": "Wasteland survival, gritty and dusty atmosphere."
+    },
+    {
+      "id": "t9",
+      "name": "Stealth",
+      "bg": "#0f1a1a",
+      "fg": "#5fb3b3",
+      "desc": "Stealth games, night missions, tactical focus."
+    },
+    {
+      "id": "t10",
+      "name": "Chill Neon",
+      "bg": "#1e1e2e",
+      "fg": "#a6adc8",
+      "desc": "Lo-fi, chill vibes with soft neon colors."
+    },
+    {
+      "id": "t11",
+      "name": "Battle Royale",
+      "bg": "#101820",
+      "fg": "#ff3c38",
+      "desc": "High-energy competitive shooter mood."
+    },
+    {
+      "id": "t12",
+      "name": "Fantasy Nature",
+      "bg": "#102a18",
+      "fg": "#7ddc9a",
+      "desc": "Peaceful fantasy forests and exploration."
+    }
   ]
 }
+
